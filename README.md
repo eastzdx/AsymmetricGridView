@@ -107,3 +107,6 @@ with a custom ViewGroup possibly.
 
 Code and documentation copyright 2011-2015 Felipe Lima.
 Code released under the [MIT license](https://github.com/felipecsl/AsymmetricGridview/blob/master/LICENSE.txt).
+
+
+add by zdx
