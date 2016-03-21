@@ -14,13 +14,19 @@
       android:label="ListView sample">
       <intent-filter>
         <action android:name="android.intent.action.MAIN"/>
-        <category android:name="android.intent.category.LAUNCHER"/>
       </intent-filter>
     </activity>
 
     <activity
       android:name="com.felipecsl.asymmetricgridview.app.RecyclerViewActivity"
       android:label="RecyclerView sample"/>
+    <activity android:name=".MineActivity"
+        android:label="Mine Activity">
+      <intent-filter>
+        <action android:name="android.intent.action.MAIN"/>
+        <category android:name="android.intent.category.LAUNCHER"/>
+      </intent-filter>
+    </activity>
   </application>
 
 </manifest>
